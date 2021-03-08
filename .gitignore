@@ -38,7 +38,7 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+ReduxToolkit/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -102,3 +102,17 @@ dist
 
 # TernJS port file
 .tern-port
+
+#iOS
+ReduxToolkit/ios/Pods/
+
+#android
+ReduxToolkit/android/app/build/
+ReduxToolkit/android/.idea
+ReduxToolkit/android/.gradle
+ReduxToolkit/android/local.properties
+ReduxToolkit/android/*.hprof
+ReduxToolkit/ssh
+ReduxToolkit/ssh.pub
+*.apk
+output.json

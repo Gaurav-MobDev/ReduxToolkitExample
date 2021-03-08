@@ -1,0 +1,7 @@
+export const COLOR_CODES = {
+  BLACK: '#565655',
+  GRAY: '#8D8C91',
+  WHITE: '#F5F5F5',
+  LIGHT_GRAY: '#F7F7F7',
+  SHADOW: '#DDDDDD',
+};
